@@ -1,9 +1,10 @@
 # 啥也不是
 
 # 拉库地址
+# 国外自行去掉代理
 
 ```
-ql repo https://github.com/zhuo2002/ql-spy.git "jd_|m_|pkc_|getJDCookie" "activity|backUp" "^jd[^_]|USER|utils|function"
+ql repo https://yanyu.ltd/https://github.com/zhuo2002/ql-spy.git "jd_|m_|pkc_|getJDCookie" "activity|backUp" "^jd[^_]|USER|utils|function"
 ```
 
 # 介绍
